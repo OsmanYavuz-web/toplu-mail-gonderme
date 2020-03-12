@@ -1,0 +1,14 @@
+c:\users\bl0w\documents\visual studio 2015\Projects\toplu-mail-gonderme\Toplu Mail Gönderme\bin\Debug\Toplu Mail Gönderme.exe.config
+c:\users\bl0w\documents\visual studio 2015\Projects\toplu-mail-gonderme\Toplu Mail Gönderme\bin\Debug\Toplu Mail Gönderme.exe
+c:\users\bl0w\documents\visual studio 2015\Projects\toplu-mail-gonderme\Toplu Mail Gönderme\bin\Debug\Toplu Mail Gönderme.pdb
+c:\users\bl0w\documents\visual studio 2015\Projects\toplu-mail-gonderme\Toplu Mail Gönderme\obj\Debug\Toplu Mail Gönderme.csprojResolveAssemblyReference.cache
+c:\users\bl0w\documents\visual studio 2015\Projects\toplu-mail-gonderme\Toplu Mail Gönderme\obj\Debug\Toplu_Mail_Gönderme.Form1.resources
+c:\users\bl0w\documents\visual studio 2015\Projects\toplu-mail-gonderme\Toplu Mail Gönderme\obj\Debug\Toplu_Mail_Gönderme.Properties.Resources.resources
+c:\users\bl0w\documents\visual studio 2015\Projects\toplu-mail-gonderme\Toplu Mail Gönderme\obj\Debug\Toplu Mail Gönderme.csproj.GenerateResource.Cache
+c:\users\bl0w\documents\visual studio 2015\Projects\toplu-mail-gonderme\Toplu Mail Gönderme\obj\Debug\Toplu Mail Gönderme.exe
+c:\users\bl0w\documents\visual studio 2015\Projects\toplu-mail-gonderme\Toplu Mail Gönderme\obj\Debug\Toplu Mail Gönderme.pdb
+c:\users\bl0w\documents\visual studio 2015\Projects\toplu-mail-gonderme\Toplu Mail Gönderme\obj\Debug\Toplu Mail Gönderme.csproj.ResolveComReference.cache
+D:\VB6 - C# Projelerim\toplu-mail-gonderme\Toplu Mail Gönderme\bin\Debug\Toplu Mail Gönderme.exe.config
+D:\VB6 - C# Projelerim\toplu-mail-gonderme\Toplu Mail Gönderme\obj\Debug\Toplu Mail Gönderme.csproj.ResolveComReference.cache
+D:\VB6 - C# Projelerim\toplu-mail-gonderme\Toplu Mail Gönderme\obj\Debug\Toplu Mail Gönderme.exe
+D:\VB6 - C# Projelerim\toplu-mail-gonderme\Toplu Mail Gönderme\obj\Debug\Toplu Mail Gönderme.pdb
